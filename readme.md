@@ -9,5 +9,6 @@ Prerequisite:
 
 Steps to run the project:
     1. Open the DempApp.sln file in the Visual studio
-    2. Build and run the project
+    2. Change your sql server connection string in appsettings.json file in DbContext area.
+    3. Build and run the project
    
